@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+# Native projects: remove these lines if you want to commit ios/ and android/
+ios/App/Pods
+ios/App/build
+ios/App/App/public
+android/.gradle
+android/build
+android/app/build
+android/app/src/main/assets/public
+android/capacitor-cordova-android-plugins
